@@ -53,6 +53,10 @@ hr {
   border-color: brown;
 }
 
+.bottom-line {
+  margin-top: 25px;
+}
+
 /* FOOTER */
 
 footer {
@@ -77,5 +81,12 @@ a:hover {
 
 a:active {
   color: brown;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -25px;
 }
  
