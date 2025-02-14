@@ -18,7 +18,7 @@ h1, h2 {
 h1 {
     font-size: 40px;
   } 
-  
+
 h2 {
     font-size: 30px;
   }   
@@ -44,5 +44,11 @@ h2 {
 .price {
     text-align: right;
     width: 25%;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
 }
  
